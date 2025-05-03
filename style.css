@@ -8,7 +8,7 @@
      color: #573A37;
  }
  body {
-     background-image: url(assets/bg-image.jpg);
+    background-image: url(assets/bg-image.png);
     background-size: cover;
 }
 
@@ -50,4 +50,8 @@ h2 {
     
     ul {
         padding-left: 24px;
+}
+footer {
+    margin: 28px auto 48px;
+    color: #F0E8C2;
 }
